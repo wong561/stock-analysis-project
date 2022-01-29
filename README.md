@@ -5,4 +5,4 @@
   <ul> 2. And Anaconda... <ul>
   <ul> 3. Run in Jupyter Labs <ul>
 
-    <i> Any issues, or thoughts, please contact me at wong@561@gmail.com </i>
+    <b> Any issues, or thoughts, please contact me at wong@561@gmail.com </b>
